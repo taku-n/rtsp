@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/taku-n/rtsp/issues"
   },
-  "homepage": "https://github.com/taku-n/rtsp#readme"
+  "homepage": "https://github.com/taku-n/rtsp#readme",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
 }
